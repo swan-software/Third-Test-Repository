@@ -1,0 +1,9 @@
+class Class4
+{
+    private Guid m_guid;
+
+    public Class4(Guid guid)
+    {
+        m_guid = guid;
+    }
+}

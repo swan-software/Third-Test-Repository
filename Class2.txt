@@ -1,0 +1,9 @@
+class Class2
+{
+    private Int32 m_class2Thing;
+
+    public Class2(Int32 class2Thing)
+    {
+        m_class2Thing = class2Thing;
+    }
+}

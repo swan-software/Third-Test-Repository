@@ -1,0 +1,9 @@
+class Class3
+{
+    private DateTime m_date;
+
+    public Class3(DateTime date)
+    {
+        m_date = date;
+    }
+}
