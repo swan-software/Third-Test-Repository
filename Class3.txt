@@ -1,4 +1,4 @@
-class Class3 // User2
+class Class3 // Feature 1 additions // User2
 {
     private DateTime m_date;
 

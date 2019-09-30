@@ -1,4 +1,4 @@
-class Class2 // User2
+class Class2 // Feature 1 additions // User2
 {
     private Int32 m_class2Thing;
 
