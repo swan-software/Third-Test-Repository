@@ -1,4 +1,4 @@
-class Class3
+class Class3 // Feature 1 additions
 {
     private DateTime m_date;
 
