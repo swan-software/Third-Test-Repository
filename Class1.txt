@@ -1,4 +1,4 @@
-class Class1
+class Class1 // User2
 {
     private string m_greeting;
     private Int32 m_count;

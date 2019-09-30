@@ -1,4 +1,4 @@
-class Class4
+class Class4 // User2
 {
     private Guid m_guid;
 
