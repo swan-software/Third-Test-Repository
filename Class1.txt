@@ -1,4 +1,4 @@
-class Class1 // User2
+class Class1 // User2 //Master Changes
 {
     private string m_greeting;
     private Int32 m_count;
