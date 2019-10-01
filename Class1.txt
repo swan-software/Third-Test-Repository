@@ -1,4 +1,4 @@
-class Class1 // Feature 1 additions // User2 // Feature 2 additions //Master ChangesXXXYYYZZZ
+class Class1 // Feature 1 additions // User2 // Feature 2 additions //Master ChangesXXXYYYZZZ // After version 1.0
 {
     private string m_greeting;
     private Int32 m_count;
